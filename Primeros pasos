@@ -1,1 +1,4 @@
+He decidido empezar analizando las editoriales que fueron creadas durante la pandemia (buscando en la base de datos del Ministerio de Cultura) en 2020. Me he fijado solo en editoriales, no en autopublicados, ya que con las editoriales puedo indicar si están aún disponibles.
+Estos datos se han pasado a un Excel y luego se han buscado cuántos ISBN han sido creados durante el año pasado. Para comprobar el alcance de publicación que tiene esta pequeña muestra. 
+Los datos han sido exportados a PowerBi y se ha visto que hay editoriales que no han publicado nada en 2024, algunas que han publicado 5, y otras que han publicado mucho más. Es decir, hay variedad. 
 
