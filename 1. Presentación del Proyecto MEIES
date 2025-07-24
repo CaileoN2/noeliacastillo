@@ -1,0 +1,49 @@
+ORIGEN
+El proyecto MEIES se pensó en un momento como un mapa interactivo para dar a conocer las editoriales independientes de España, es decir, 
+aquellas editoriales que no pertenecen a grupos, como por ejemplo Random House Mondadori. 
+No era únicamente ubicarlas, sino que tendría que dar información, toda aquella importante para el lector y escritor.
+Por ellos se buscó una pàgina web que pudiera darnos lo que necesitabamos. y la encontramos y empezamos a añadir editoriales y probar. 
+Problema: había un limite de visualizaciones. Así que se desecho la idea.
+ComencÉ el Master de la Universidad de Barcelona en Humanidades Digitales y vÍ una opción para continuar el trabajo. Pero esta vez con QGis.
+
+DE QGIS A POWERBI
+Por ello y tras horas de intento para hacer funcionar el proyecto en QGIS y no conseguir obtener los objetivos expresados en la presentación del proyecto en clase, debo de cambiar de programa. 
+Power Bi es más sencillo de utilizar, o por lo menos que presenta menos problemas, y que además me deja representar más información, pudiendo así cumplir mejor los objetivos principales.
+
+BASE DE DATOS
+Con el cambio de programa, la base de datos ha sufrido una modificación substancial: 
+las imágenes ahora son enlaces, los logos son del mismo tamaño y estan colgados en imageshack 
+y las novedades se ha indicado el enlace de la web y se han aumentado las columnas de contenido. 
+Asimismo, al no tener el límite de caracteres como en QGIS (Con el plugin qgisweb las fichas de cada icono tienen un limite de 250 caracteres, 
+aún así presenta problemas con el ancho o con los acentos) se ha añadido la columna “Descripción” que nos da una pequeña presentación de la editorial.
+
+El mapa se ideó para cumplir los objetivos siguientes:
+[PROBLEMAS]
+- Editoriales Independientes: Necesitan tener una mayor visibilidad
+- Lectores: Necesitan conocer más opciones
+- Escritores: Necesitan saber dónde publicar.
+
+Teniendo en mente se han añadido en la base de datos las siguientes columnas:
+- Editoriales independientes: Novedades (Título, imagen, sinopsis y enlace de compra) ; Descripción
+- Lectores: Novedades (Título, imagen, sinopsis y enlace de compra) ; Géneros
+- Escritores: Géneros ; Aceptación manuscritos ; Instrucciones
+Toda la información necesaria se ha obtenido de la página web y/o de la cuenta Twitter de la editorial. En raros casos no se han obtenido determinados campos.
+La información para las columnas géneros y manuscritos son las más difíciles de encontrar, 
+hecho que demuestra que el proyecto es necesario, dado que, si aun estando trabajando para encontrar dicha información no la encuentras, cómo la va a encontrar el lector y/o escritor?
+
+POWERBI
+Teniendo la información en Excel se ha creído adecuado presentar la información en dos páginas:
+1. Descubre. El usuario selecciona un punto en el mapa y nos presenta la editorial seleccionada, son el nombre, el logo, la descripción, si acepta o no manuscritos y donde dirigirse para obtener información respecto al envío, la web y twitter y por último la presentación de una de sus novedades, con el título, su portada, la sinopsis y un enlace para poder adquirirla. Con ello el usuario descubre una editorial, una obra y un lugar para publicar o no su manuscrito.
+2. Busca. En este caso el usuario escribe una palabra o una idea en el buscador y este muestra editoriales que guardar relación, a continuación el usuario elige una de las editoriales y obtiene la información de esta editorial. Con esta página el usuario busca una editorial en concreto basándose en géneros o términos que la definen.
+3. Power Bi móvil
+En la pestaña “Ver” de power bi desktop se encuentra la opción “Diseño para móviles” que nos permite crear una versión del proyecto para utilizarla en un smarthphone. En
+nuestro caso para poder utilizar toda la información de la versión original, se ha tenido que fragmentar está en cuatro ventanas:
+  1. Descubre. El usuario selecciona un punto en el mapa y el mapa comparte la información sobre la editorial en lo que respecta su nombre, la imagen, una descripción, la cuenta twitter y la web.
+  2. Lee. Mismo procedimiento que la anterior ventana, pero en este caso el usuario recibe la información respecto a una novedad de la editorial.
+  3. Busca. El usuario busca un género o un término y el MEIES comparte las editoriales relacionadas con esa búsqueda. El usuario selecciona una y entonces se comparte el nombre de la editorial, su imagen, su twitter y su web.
+  4. Pública. A diferencia que la versión original, aquí el usuario puede buscar qué editoriales aceptan manuscritos, cómo mandarlo, junto al nombre de la editorial, su imagen, su twitter y su web.
+En este caso para poder comprobar su eficacia se ha realizado una grabación probando esta versión (ver vídeo adjunto).
+
+CONCLUSIONES
+Gracias a Power Bi se ha cumplido todos los objetivos establecidos excepto uno: poder compartir el proyecto. 
+MEIES es útil, fácil de utilizar y eficaz y por ello creo que es una herramienta que debe de estar al alcance de las editoriales, los lectores y los escritores.
