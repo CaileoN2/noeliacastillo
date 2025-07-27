@@ -1,0 +1,67 @@
+PATRIMONIO EGIPCIO
+EN EL ANTIGUO EGIPTO Y EN LA ACTUALIDAD
+Trabajo de Noelia Castillo
+Asignatura de Cartografía Digital del Máster de Humanidades Digitales de la Universidad de Barcelona
+
+
+1. INTRODUCCIÓN
+El presente trabajo tiene como finalidad presentar el patrimonio egipcio, como modo de comprender su historia, ya sea desde el enfoque plenamente histórico como su vertiente arqueológica que nos lleva a la actualidad.
+La región seleccionada se encuentra relacionada con la ubicación faraónica de las seis primeras dinastías, es decir, abarcando desde la unidad de Egipto con el rey Narmer en la Dinastía I reflejada en la paleta de Narmer encontrada en Hierakonpolis hasta la Dinastía VI, la última del Imperio Antiguo.
+En el transcurso de estas seis primeras dinastías nos encontramos con la presencia de patrimonio en las siguientes ubicaciones: Hierakonpolis, Abydos, Meidum, Dashur, Saqqara, Abusir, Giza y Abu Rawash.
+Con ello, los mapas creados se centran en estas ubicaciones situadas a lo largo del Nilo en su parte occidental, siendo las dos primeras del Alto Egipto y el resto del Bajo Egipto.
+Asimismo, se tiene en cuenta la distribución actual del territorio para poner en contexto las ubicaciones del patrimonio del antiguo Egipto con el Egipto actual.
+
+Con la creación de los distintos tres mapas, se pretende comprender la ubicación del patrimonio con relación a la historia del antiguo Egipto, es decir, las dinastías;
+la tipología de este patrimonio para comprender la evolución historia de su cultura y, por último, la historia actual de este patrimonio en relación a las excavaciones arqueológicas llevadas a cabo por arqueólogos de distintos países.
+
+
+
+2. METODOLOGÍA
+2.1. BASE DE DATOS
+Para la creación de los tres distintos mapas se ha llevado a cabo la creación de una base de datos1 de 309 elementos que representaría una pequeña muestra del patrimonio real.
+[Esta decisión se ha llevado a cabo por la imposibilidad de obtener una base de datos ya creada. Cabe destacar la importancia de la profesora Núria Torras Benezet, especialista en el antiguo Egipto, gracias a la cual se ha decidido acotar el conjunto de elementos a representar focalizándose en las seis primeras dinastías.]
+Se ha partido del portal ancient-egypt.org para ubicar los elementos arquitectónicos de los distintos faraones de las seis primeras dinastías. Asimismo, se ha consultado otros sitios web
+[A lo largo del trabajo se han utilizado los mismos sitios webs: ancient-egypt.org, egymonuments.gov.org arts and culture, ucl.ac.uk, giza.fas.harvard.edu, egyptartefacts.griffith.ox.ac.uk y los portales de diferentes museos (The Penn Museum, Muzeo Egipzio, The British Museum, Louvre, The Petrie Museum y Museum of Fine Arts Boston)]
+para añadir más elementos de los faraones que ya se tenía, pero también para añadir elementos arquitectónicos de personas vinculadas a un faraón en concreto: familiares, escribas, etc.
+Para ubicar cada elemento arquitectónico se ha basado en Google Maps, Geohack y mapas en los sitios referenciados anteriormente para conseguir las coordenadas.
+A partir de ahí se ha procedido a localizar otros elementos creando así una distribución tipológica (Arquitectura, Objetos, Escultura, Tumba y Pintura).
+[Los elementos de la tipología pintura son minoritarios y aunque estás presentes en la base de datos, no se encuentran entre las tres ubicaciones seleccionadas para el tercer mapa, por ello únicamente aparecen las cuatro primeras categorías en dicho mapa.]
+
+Cada elemento nuevo añadido en este punto de la creación de la base de datos está relacionado con un elemento arquitectónico para facilitar la ubicación.
+Por ejemplo, las mastabas del cementerio occidental y oriental de la pirámide de Kheops tienen un código, con este código se puede encontrar los elementos encontrados dentro de esa mastaba.
+El portal web de giza.fas.harvard.edu contiene los elementos encontrados en la zona de Giza y muestra su ubicación (el código identificativo), la información relativa a la excavación, el período dinástico y faraónico, el código del museo actual.
+El mismo código identificativo de la ubicación se puede utilizar en otros portales web, por ejemplo, diferentes web por museos.
+Cabe destacar que de cada ubicación (relacionada con un código identificativo) se ha pretendido añadir en la base de datos elementos encontrados en esta ubicación que sean de diferente tipología y que se encuentren en diferentes museos.
+
+La base final está formada por 309 elementos, 
+con el nombre del elemento, 
+su código de inventario de museo si lo tienen,
+su tipología, 
+el faraón, 
+la dinastía, 
+el período (Tinita o Imperio Antiguo), 
+la ubicación (Hierakonpolis, Abydos, Meidum, Dashur, Saqqara, Abusir, Giza y Abu Rawash), 
+la localización exacta (por ejemplo, el nombre de la píramide o el código identificativo), 
+las coordenadas originales, 
+la ubicación actual (museo, ciudad y país) y sus coordenadas.
+
+
+2.2. REPRESENTACIÓN
+
+Se ha creado tres mapas, el primero focalizado en Egipto, el segundo en tres ubicaciones concretas y el tercero se ha representado Egipto junto a otros países.
+Los dos primeros se centran en la parte de Egipto junto al Nilo, por ello se ha optado por la proyección UTM 32636 adecuada para mostrar una parte pequeña sin distorsión.
+En el caso del tercer mapa, al mostrar distintos países se ha optado por la proyección 54030 a la vez que se han añadido los meridianos y paralelos.
+
+El primer mapa es de tipo cualitativo y representa a través de puntos los distintos elementos arquitectónicos.
+Asimismo, la utilización de símbolos destaca la información que se quiere narrar: puntos de distinto color con relación a su dinastía y etiqueta con el nombre de las ubicaciones.
+
+El segundo mapa es de tipo cuantitativo y representa a traves de diagramas el porcentaje de elementos según tipología en las tres ubicaciones con más elementos (Giza, Saqqara y Abydos).
+Se ha procedido a situar los dos mapas con la misma escala para representar otra variable acorde al valor total de elementos de cada ubicación.
+Para facilitar esta lectura en la leyenda se ha ubicado la relación del tamaño de cada diagrama respecto al valor total de elementos de cada ubicación.
+Asimismo, se ha añadido una capa con el territorio ocupado por la población actual para contextualizar estas ubicaciones y se han mantenido las etiquetas de estas tres ubicaciones.
+
+El tercer mapa es un mapa de flujos para mostrar el movimiento del patrimonio egipcio y la proporcionalidad de cada flecha va acorde al número de elementos que parten de Egipto a ese país.
+Esto países se muestran diferenciados con otro color y, además, a través de un mapa de puntos, se ubican los museos que acogen estos elementos.
+La leyenda muestra el equivalente numérico del grosor de cada flecha y además pone nombre al mapa de puntos gracias a indicar el nombre de cada museo y la ciudad en dónde se ubican. Al ser 16 museos, 
+además del mapa de puntos se ha añadido unas etiquetas numéricas para facilitar la localización de cada museo.
+
