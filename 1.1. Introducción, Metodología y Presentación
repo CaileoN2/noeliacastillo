@@ -52,6 +52,8 @@ Se ha creado tres mapas, el primero focalizado en Egipto, el segundo en tres ubi
 Los dos primeros se centran en la parte de Egipto junto al Nilo, por ello se ha optado por la proyección UTM 32636 adecuada para mostrar una parte pequeña sin distorsión.
 En el caso del tercer mapa, al mostrar distintos países se ha optado por la proyección 54030 a la vez que se han añadido los meridianos y paralelos.
 
+![primer mapa](1.2. Primer mapa_Distribucción del patrimonio egipció según dinastía.png)
+
 El primer mapa es de tipo cualitativo y representa a través de puntos los distintos elementos arquitectónicos.
 Asimismo, la utilización de símbolos destaca la información que se quiere narrar: puntos de distinto color con relación a su dinastía y etiqueta con el nombre de las ubicaciones.
 
