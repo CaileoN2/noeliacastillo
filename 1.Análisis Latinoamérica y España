@@ -1,0 +1,70 @@
+ANáLISIS POKEMON PRIMERA GENERACIÓN LATINOAMÉRICA
+
+1)OBJETIVOS PREVIOS
+Cuando empecé el proyecto de hacer cosas para análisis y visualización de datos, pensé en algo que siempre me ha acompañado: Pokemon. 
+Por ello me dediqué a analizar, el primer problema fue encontrar base de datos completas en formato csv de todas las generación. 
+No encontré nada, algunas no estaban completas. 
+Por ello elegí una que estuviese más o menos completa y decidí hacerla de la primera generación, que debería ser la más recordada y fácil de responder. 
+Hice un Excel con el nombre del pokemon, 
+la generación (por si posteriormente me animaba a más), 
+el tipo principal y el secundario (si no tenía secundario se le aplicaba el primario), 
+la altura, el peso y el base total (lo que sería la fuerza). 
+Este excel serviría para ayudarme con tres preguntas: teorizaba que la segunda se basaba en la altura y el peso de los pokemon, cuanto más pequeños más kawaii son; 
+la tercera pregunta se basaba en dos teorías, o se elegían los pokemon principales de la primera generación o aquellos que el base total fuese alto. 
+La primera pregunta, era aquella que quería comparar con España, porque un favorito puede ser por diferentes valores, 
+entre ellos el cultural y por ello me fascinaba la idea de saber qué podía ocurrir con esta pregunta. 
+
+2)PROBLEMÁTICA
+Desde el principio he vivido como arrancaban las respuestas en España pero en latinoamerica se quedaba estancado. 
+Fueron muchos intentos, incluso acudí a reddit y discord, pero al final nada. Por ello el análisis se basa en 6 personas que amablemente han respondido el cuestionario.
+
+3)ANÁLISIS
+Posiblemente sea porque únicamente han participado 6 personas, pero resulta curioso que no se hayan repetido pokémon en cada una de las preguntas, 
+teniendo en cuenta que en la encuesta de España en los primeros resultados en la segunda pregunta ya se repetía Eevee y Jigglypuff.
+- La primera pregunta era ¿Cuál es tu pokemon favorito? y han salido: Gengar, Lapras, Haunter, Eevee, Squirtle y Pidgey. 
+Hay variedad de tipos y no son pokemons del principio. así que realmente es una respuesta muy diversa. 
+Ya veremos en España, pero es curioso que la respuesta que más se repita sea Eevee y no alguna de sus evoluciones. 
+- La segunda pregunta era ¿Cuál es más cute/kawaii?. Aquí ya venía teorizando que saldrían pokemon menos o iguales a un metro de altura, 
+no me pregunteis porqué pero eso tenía en mente inmediatamente después de pensar la pregunta. Aquí también me sorprendió porque quedó muy variado: Dewgong, Tangela, Ninentales, Vulpix, Jigglypuff y Mew. 
+De nuevo nos encontramos como respuesta a dos pokemon que son evoluciones del otro (Gengar y Haunter). 
+Respecto a la altura, casi todos están alrededor del metro y además su peso es menor a 2 kg. 
+Pero luego está Dewgong que sobrepasa a todos los demás como podemos ver en la tabla de altura y peso.
+- La tercera pregunta es qué pokémon utilizas siempre. En este caso también venía con teoría, que es con lo que comienzas es con lo que te quedas. 
+Pero de nuevo me han destruido la teoría, vuelve a aparecer Lapras que va acompañado por Gyarados, Dragonite, Weezing y Sandshrew. 
+La sexta persona respondió otros, es decir, de otra generación. Sin duda una selección muy llamativa pero que tienen algo en común, 
+y es que todos los pokemon, o casi todos, tienen un base total superior a 400 y en cada una de las preguntas hay uno que supera los 600. 
+
+4) RESULTADOS
+Sin duda ha sido un análisis muy corto, quizás podría haber indagado más pero es que eran únicamente 6 respuestas. 
+De este proyecto me quedo que es muy difícil conseguir personas que quieran responder un formulario de google. 
+Pero sí será necesario esta encuesta para ver lo que ocurre en España. 
+
+
+ANÁLISIS PROKEMON PRIMERA GENERACIÓN ESPAÑA
+
+1) OBJETIVOS PREVIOS
+Los mismos que Latinoamérica, aunque en este caso ya desde el principio quería conseguir más respuestas, 
+pensé que llegaría a 100 pero llegó un momento que se estancó y conseguí llegar a 50. 
+
+2) PROBLEMÁTICAS
+Repito lo que dije en el anterior análisis, es muy difícil conseguir que personas respondan un formulario aunque tu cuenta y las de tu adyacentes sean del mismo país. 
+Además tuve problemas con Eevee, el cual se escribió de maneras diferentes, así que tuve que hacer lavado de Excel, 
+además de aquellos que respondían este u otro y los que respondieron “otro” en la pregunta final, 
+que fueron 13 que referían que utilizaban más de otras generaciones. No creía que llegarán a ser bastantes.
+
+3) ANÁLISIS
+- Empezamos con la primera pregunta ¿Cuál es tu pokemon favorito? En este caso había mucha variedad de respuestas, aunque se han repetido más: Gengar, Pikachu, Eevee, Lapras, Mew, Mewtwo. 
+De estos hay tres que se repiten también en latinoamérica: Eevee, Gengar y Lapras. Lapras siendo el gran favorito en las encuestas.
+- En la segunda pregunta se ha cumplido totalmente mi teoría: y salgo Dratini que mide más de metro y medio, el resto mide alrededor de 1 metro o mucho menos. 
+Especial atención de que vuelve a aparecer Eevee, y Mew y Jigglypuff siendo repetidos en la misma pregunta que Latinoamérica.
+- Y la tercera pregunta se ha cumplido totalmente mi teoría: que escogieran pokemon que han estado con ello desde el principio, por ello nos encontramos Charizard, Pikachu y Venusau, y además ha aparecido una evolución de Eevee. 
+Asimismo, hay que tener en cuenta que son pokemon que también tiene una buena base total. 
+
+4) RESULTADOS
+En primer lugar comentar que hubiese sido interesante tener más respuestas de latinoamérica, para ver si también se cumplía las hipótesis o variaban respecto a España.
+En segundo lugar, estoy contenta con los resultados de España, no se alejan mucho de lo que creía que iba a ocurrir.
+Y por último, dar gracias a todos los que han hecho posible este miniprojecto. 
+
+
+
+
